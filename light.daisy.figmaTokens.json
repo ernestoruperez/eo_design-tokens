@@ -1,0 +1,174 @@
+{
+  "d_color": {
+    "primary": {
+      "value": "hsl(258.89, 94.378%, 51.176%, 1)",
+      "type": "color",
+      "description": "required / \nClass name: bg-primary,\nCSS variable: hsl(var(--p))"
+    },
+    "primary-focus": {
+      "value": "hsl(258.89, 94.378%, 40.941%, 1)",
+      "type": "color",
+      "description": "Class name: bg-primary-focus, \nCSS variable: hsl(var(--pf))"
+    },
+    "primary-content": {
+      "value": "hsl(0, 0%, 100%, 1)",
+      "type": "color",
+      "description": "Class name: bg-primary-content\nCSS variable: hsl(var(--pc))"
+    },
+    "secondary": {
+      "value": "hsl(314, 100%, 47.059%, 1)",
+      "type": "color",
+      "description": "required / \nClass name: bg-secondary, \nCSS variable: hsl(var(--s))"
+    },
+    "secondary-focus": {
+      "value": "hsl(314, 100%, 37.647%, 1)",
+      "type": "color",
+      "description": "Class name: bg-secondary-focus,\nCSS variable: hsl(var(--sf))"
+    },
+    "secondary-content": {
+      "value": "hsl(0, 0%, 100%, 1)",
+      "type": "color",
+      "description": "Class name: bg-secondary-content\nCSS variable: hsl(var(--sc))"
+    },
+    "accent": {
+      "value": "hsl(174, 60%, 50.98%, 1)",
+      "type": "color",
+      "description": "requiered / \nClass name: bg-accent\nCSS variable: hsl(var(--a))"
+    },
+    "accent-focus": {
+      "value": "hsl(174, 60%, 40.784%, 1)",
+      "type": "color",
+      "description": "Class name: bg-accent-focus\nCSS variable: hsl(var(--af))"
+    },
+    "accent-content": {
+      "value": "hsl(174.71, 43.59%, 15.294%, 1)",
+      "type": "color",
+      "description": "Class name: bg-accent-content\nCSS variable: hsl(var(--ac))"
+    }
+  },
+  "d_base": {
+    "neutral": {
+      "value": "hsl(219, 14.085%, 27.843%, 1)",
+      "type": "color",
+      "description": "requiered / \nClass name: bg-neutral\nCSS variable: hsl(var(--n))"
+    },
+    "neutral-focus": {
+      "value": "hsl(219, 14.085%, 22.275%, 1)",
+      "type": "color",
+      "description": "Class name: bg-neutral-focus\nCSS variable: hsl(var(--nf))"
+    },
+    "neutral-content": {
+      "value": "hsl(0, 0%, 100%, 1)",
+      "type": "color",
+      "description": "lass name: bg-neutral-content\nCSS variable: hsl(var(--nc))"
+    },
+    "base-100": {
+      "value": "hsl(0, 0%, 100%, 1)",
+      "type": "color",
+      "description": "requiered / \nClass name: bg-base-100\nCSS variable: hsl(var(--b1))"
+    },
+    "base-200": {
+      "value": "hsl(0, 0%, 94.902%, 1)",
+      "type": "color",
+      "description": "Class name: bg-base-200\nCSS variable: hsl(var(--b2))"
+    },
+    "base-300": {
+      "value": "hsl(180, 1.9608%, 90%, 1)",
+      "type": "color",
+      "description": "Class name: bg-base-300\nCSS variable: hsl(var(--b3))"
+    },
+    "base-content": {
+      "value": "hsl(215, 27.907%, 16.863%, 1)",
+      "type": "color",
+      "description": "Class name: bg-base-content\nCSS variable: hsl(var(--bc))"
+    }
+  },
+  "d_status": {
+    "info": {
+      "value": "hsl(258.89, 94.378%, 51.176%, 1)",
+      "type": "color",
+      "description": "Class name: bg-info\nCSS variable: hsl(var(--in))"
+    },
+    "info-content": {
+      "value": "hsl(198, 100%, 12%, 1)",
+      "type": "color",
+      "description": "lass name: bg-info-content\nCSS variable: hsl(var(--inc))"
+    },
+    "success": {
+      "value": "hsl(158, 64%, 52%, 1)",
+      "type": "color",
+      "description": "Class name: bg-success\nCSS variable: hsl(var(--su))"
+    },
+    "success-content": {
+      "value": "hsl(158, 100%, 10%, 1)",
+      "type": "color",
+      "description": "Class name: bg-success-content\nCSS variable: hsl(var(--suc))"
+    },
+    "warning": {
+      "value": "hsl(43, 96%, 56%, 1)",
+      "type": "color",
+      "description": "Class name: bg-warning\nCSS variable: hsl(var(--wa))"
+    },
+    "warning-content": {
+      "value": "hsl(43, 100%, 11%, 1)",
+      "type": "color",
+      "description": "Class name: bg-warning-content\nCSS variable: hsl(var(--wac))"
+    },
+    "error": {
+      "value": "hsl(0, 91%, 71%, 1)",
+      "type": "color",
+      "description": "Class name: bg-error\nCSS variable: hsl(var(--er))"
+    },
+    "error-content": {
+      "value": "hsl(0, 100%, 14%, 1)",
+      "type": "color",
+      "description": "Class name: bg-error-content\nCSS variable: hsl(var(--erc))"
+    }
+  },
+  "d_borderRadius": {
+    "rounded-box": {
+      "value": "1rem",
+      "type": "borderRadius",
+      "description": "border radius rounded-box utility class, used in card and other large boxes"
+    },
+    "rounded-btn": {
+      "value": "0.5rem",
+      "type": "borderRadius",
+      "description": "border radius rounded-btn utility class, used in buttons and similar element"
+    },
+    "rounded-badge": {
+      "value": "1.9rem",
+      "type": "borderRadius",
+      "description": "border radius rounded-badge utility class, used in badges and similar"
+    },
+    "tab-radius": {
+      "value": "0.5rem",
+      "type": "borderRadius",
+      "description": "border radius of tabs"
+    }
+  },
+  "d_other": {
+    "btn-focus-scale": {
+      "value": "0.95",
+      "type": "other",
+      "description": "scale transform of button when you focus on it"
+    }
+  },
+  "d_textTransform": {
+    "btn-text-case": {
+      "value": "{textTransform.capitalize}",
+      "type": "textCase",
+      "description": "set default text transform for buttons"
+    }
+  },
+  "d_borderWidth": {
+    "border-btn": {
+      "value": "{borderWidth.border}",
+      "type": "borderWidth"
+    },
+    "tab-border": {
+      "value": "{borderWidth.border}",
+      "type": "borderWidth"
+    }
+  }
+}
