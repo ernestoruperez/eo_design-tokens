@@ -27,7 +27,7 @@ This repository contains the following files:
 1. **Spacing**: **`spacing`**
 
     - Same as TW, the spacing scale is inherited by the `padding`, `margin`, `widht`,`height`, `maxHeight`, `gap`, `inset`, and `space` using this token reference as value.
-    - To build the spacing tokens, it's constructed using this formula: `{fontSize.base} * (value in rem)` without *rem/px* value. *More information about using Math: [Link](https://docs.tokens.studio/tokens/using-math)*.
+    - To build the spacing tokens, it's constructed using this formula: `{fontSize.base} * (value in rem)` without *rem/px*. *More information about using Math: [Link](https://docs.tokens.studio/tokens/using-math)*.
     
 1. **Typography**: **`typography`**
 
@@ -99,7 +99,7 @@ Full default config JSON for Tailwind 3.2.7: [Link](https://github.com/tailwindl
 
 ### Themes
 
-The light and dark themes use a prefix to differentiate themselves from TW since they use the same reference. However, both of these themes use the same `prefix=d` to show the theme change when using `Apply to selection` and changing the active set.
+The light and dark themes use a prefix to differentiate themselves from TW since they use the same reference. However, both of these themes use the same `prefix=d_` to show the theme change when using `Apply to selection` and changing the active set.
 
 ### DaisyUI variables and Token references.
 
