@@ -1,126 +1,126 @@
 {
   "d_color": {
     "primary": {
-      "value": "hsl(262.35, 80.315%, 50.196%, 1)",
+      "value": "hsl(262.35, 80.315%, 50.196%)",
       "type": "color",
       "description": "required / \nClass name: bg-primary,\nCSS variable: hsl(var(--p))"
     },
     "primary-focus": {
-      "value": "hsl(262.35, 80.315%, 40.157%, 1)",
+      "value": "hsl(262.35, 80.315%, 40.157%)",
       "type": "color",
       "description": "Class name: bg-primary-focus, \nCSS variable: hsl(var(--pf))"
     },
     "primary-content": {
-      "value": "hsl(0, 0%, 100%, 1)",
+      "value": "hsl(0, 0%, 100%)",
       "type": "color",
       "description": "Class name: bg-primary-content\nCSS variable: hsl(var(--pc))"
     },
     "secondary": {
-      "value": "hsl(315.75, 70.196%, 50%, 1)",
+      "value": "hsl(315.75, 70.196%, 50%)",
       "type": "color",
       "description": "required / \nClass name: bg-secondary, \nCSS variable: hsl(var(--s))"
     },
     "secondary-focus": {
-      "value": "hsl(315.75, 70.196%, 40%, 1)",
+      "value": "hsl(315.75, 70.196%, 40%)",
       "type": "color",
       "description": "Class name: bg-secondary-focus,\nCSS variable: hsl(var(--sf))"
     },
     "secondary-content": {
-      "value": "hsl(0, 0%, 100%, 1)",
+      "value": "hsl(0, 0%, 100%)",
       "type": "color",
       "description": "Class name: bg-secondary-content\nCSS variable: hsl(var(--sc))"
     },
     "accent": {
-      "value": "hsl(174.69, 70.335%, 40.98%, 1)",
+      "value": "hsl(174.69, 70.335%, 40.98%)",
       "type": "color",
       "description": "requiered / \nClass name: bg-accent\nCSS variable: hsl(var(--a))"
     },
     "accent-focus": {
-      "value": "hsl(174.69, 70.335%, 32.784%, 1)",
+      "value": "hsl(174.69, 70.335%, 32.784%)",
       "type": "color",
       "description": "Class name: bg-accent-focus\nCSS variable: hsl(var(--af))"
     },
     "accent-content": {
-      "value": "hsl(0, 0%, 100%, 1)",
+      "value": "hsl(0, 0%, 100%)",
       "type": "color",
       "description": "Class name: bg-accent-content\nCSS variable: hsl(var(--ac))"
     }
   },
   "d_base": {
     "neutral": {
-      "value": "hsl(218.18, 18.033%, 11.961%, 1)",
+      "value": "hsl(218.18, 18.033%, 11.961%)",
       "type": "color",
       "description": "requiered / \nClass name: bg-neutral\nCSS variable: hsl(var(--n))"
     },
     "neutral-focus": {
-      "value": "hsl(222.86, 17.073%, 8.0392%, 1)",
+      "value": "hsl(222.86, 17.073%, 8.0392%)",
       "type": "color",
       "description": "Class name: bg-neutral-focus\nCSS variable: hsl(var(--nf))"
     },
     "neutral-content": {
-      "value": "hsl(220, 13.376%, 69.216%, 1)",
+      "value": "hsl(220, 13.376%, 69.216%)",
       "type": "color",
       "description": "lass name: bg-neutral-content\nCSS variable: hsl(var(--nc))"
     },
     "base-100": {
-      "value": "hsl(220, 17.647%, 20%, 1)",
+      "value": "hsl(220, 17.647%, 20%)",
       "type": "color",
       "description": "requiered / \nClass name: bg-base-100\nCSS variable: hsl(var(--b1))"
     },
     "base-200": {
-      "value": "hsl(220, 17.241%, 17.059%, 1)",
+      "value": "hsl(220, 17.241%, 17.059%)",
       "type": "color",
       "description": "Class name: bg-base-200\nCSS variable: hsl(var(--b2))"
     },
     "base-300": {
-      "value": "hsl(218.57, 17.949%, 15.294%, 1)",
+      "value": "hsl(218.57, 17.949%, 15.294%)",
       "type": "color",
       "description": "Class name: bg-base-300\nCSS variable: hsl(var(--b3))"
     },
     "base-content": {
-      "value": "hsl(220, 13.376%, 69.216%, 1)",
+      "value": "hsl(220, 13.376%, 69.216%)",
       "type": "color",
       "description": "Class name: bg-base-content\nCSS variable: hsl(var(--bc))"
     }
   },
   "d_status": {
     "info": {
-      "value": "hsl(198, 93%, 60%, 1)",
+      "value": "hsl(198, 93%, 60%)",
       "type": "color",
       "description": "Class name: bg-info\nCSS variable: hsl(var(--in))"
     },
     "info-content": {
-      "value": "hsl(198, 100%, 12%, 1)",
+      "value": "hsl(198, 100%, 12%)",
       "type": "color",
       "description": "lass name: bg-info-content\nCSS variable: hsl(var(--inc))"
     },
     "success": {
-      "value": "hsl(158, 64%, 52%, 1)",
+      "value": "hsl(158, 64%, 52%)",
       "type": "color",
       "description": "Class name: bg-success\nCSS variable: hsl(var(--su))"
     },
     "success-content": {
-      "value": "hsl(158, 100%, 10%, 1)",
+      "value": "hsl(158, 100%, 10%)",
       "type": "color",
       "description": "Class name: bg-success-content\nCSS variable: hsl(var(--suc))"
     },
     "warning": {
-      "value": "hsl(43, 96%, 56%, 1)",
+      "value": "hsl(43, 96%, 56%)",
       "type": "color",
       "description": "Class name: bg-warning\nCSS variable: hsl(var(--wa))"
     },
     "warning-content": {
-      "value": "hsl(43, 100%, 11%, 1)",
+      "value": "hsl(43, 100%, 11%)",
       "type": "color",
       "description": "Class name: bg-warning-content\nCSS variable: hsl(var(--wac))"
     },
     "error": {
-      "value": "hsl(0, 91%, 71%, 1)",
+      "value": "hsl(0, 91%, 71%)",
       "type": "color",
       "description": "Class name: bg-error\nCSS variable: hsl(var(--er))"
     },
     "error-content": {
-      "value": "hsl(0, 100%, 14%, 1)",
+      "value": "hsl(0, 100%, 14%)",
       "type": "color",
       "description": "Class name: bg-error-content\nCSS variable: hsl(var(--erc))"
     }
