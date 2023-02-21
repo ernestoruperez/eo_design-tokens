@@ -14,6 +14,48 @@
         "type": "color"
       }
     },
+    "default-gray": {
+      "50": {
+        "value": "{colors.gray.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{colors.gray.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.gray.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.gray.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.gray.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.gray.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.gray.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.gray.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.gray.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.gray.900}",
+        "type": "color"
+      }
+    },
     "slate": {
       "50": {
         "value": "#f8fafc",
