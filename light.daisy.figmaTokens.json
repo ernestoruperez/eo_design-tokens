@@ -147,11 +147,18 @@
       "description": "border radius of tabs"
     }
   },
-  "d_other": {
-    "btn-focus-scale": {
-      "value": "0.95",
-      "type": "other",
-      "description": "scale transform of button when you focus on it"
+  "d_others": {
+    "buttons": {
+      "btn-focus-scale": {
+        "value": "0.95",
+        "type": "other",
+        "description": "scale transform of button when you focus on it"
+      },
+      "btn-wide": {
+        "value": "{spacing.64}",
+        "type": "other",
+        "description": "scale transform of button when you focus on it"
+      }
     }
   },
   "d_textTransform": {
