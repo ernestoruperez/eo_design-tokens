@@ -47,7 +47,7 @@
         "description": "Class name: bg-accent-content\nCSS variable: hsl(var(--ac))"
       }
     },
-    "d_base": {
+    "base": {
       "neutral": {
         "value": "hsl(218.18, 18.033%, 11.961%)",
         "type": "color",
@@ -84,7 +84,7 @@
         "description": "Class name: bg-base-content\nCSS variable: hsl(var(--bc))"
       }
     },
-    "d_status": {
+    "status": {
       "info": {
         "value": "hsl(198, 93%, 60%)",
         "type": "color",
